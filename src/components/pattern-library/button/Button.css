@@ -1,0 +1,17 @@
+.button{
+    width: 100%;
+    padding: 12px;
+    background: #000;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.btn-pm{
+    background: #28a745 !important;    
+}
+
+.btn-sc{
+    background: #1074e7 !important;
+}

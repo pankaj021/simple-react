@@ -1,0 +1,23 @@
+.employee-dashboard{
+    display: block !important;
+}
+
+.employee-dashboard table {
+    width: 100%;
+    border: 1px solid #888;
+    margin: 20px 0px;
+    padding: 16px;
+}
+
+.employee-dashboard td, .employee-dashboard th {
+    text-align: center;
+}
+
+.employee-dashboard th{
+    padding-bottom: 16px;
+}
+
+.employee-dashboard td{
+    border: 1px solid #ccc;
+    padding: 12px;
+}

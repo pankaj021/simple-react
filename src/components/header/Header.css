@@ -1,0 +1,22 @@
+.h-wrap{
+    padding: 16px 0px;
+    color: #fff;
+    background-color: #24292e;
+}
+.h-content, .employee-dashboard{
+    width: 80%;
+    margin: auto;
+    min-width: 1260px;
+    display: flex;
+    align-items: center;
+}
+.h-title{
+    margin: 0;
+    padding: 0;
+}
+.h-content a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 60px;
+}
